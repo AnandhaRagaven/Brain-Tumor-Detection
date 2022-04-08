@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
-Given an MRI image of a brain, it tells is it contains tumor or not using TensorFlow
+Given an MRI image of a brain, it predicts whether it contains tumor using TensorFlow Framework
 
 
 Data Sets Taken Form Kaggle
